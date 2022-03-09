@@ -10,7 +10,7 @@ metadata:
   namespace: bigbang
 spec:
   interval: 1m
-  url: https://replace-with-your-git-repo.git
+  url: https://github.com/tunsman10/template.git
   ref:
     branch: template-demo
   secretRef:
